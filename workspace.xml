@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f13ed27-4f45-4a4c-91bf-a140e5694238" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont862f.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont862f.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont862f.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/cream_dust.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/icon_minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/icon_plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/login-body-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/profile-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/profile-bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/profile-bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/profile-bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/sorting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/sorting_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/sorting_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/img/user9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/delete.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/down-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/noimage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/parallax-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/parallax-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/parallax-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photographer/PHOTO-SHARE-PHOTOGRAPHER-PROFILE-1500641676.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photographer/PHOTO-SHARE-PHOTOGRAPHER-PROFILE-1500641767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photographer/PHOTO-SHARE-PHOTOGRAPHER-PROFILE-1500641854.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/photographer/PHOTO-SHARE-PHOTOGRAPHER-PROFILE-1500641971.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642143.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642166.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642185.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642204.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642426.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642447.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642614.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642633.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500642650.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500643058.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500643079.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500643099.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/portfolio/PHOTO-SHARE-PHOTOGRAPHER-IMAGE-1500643119.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/photoshare.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/chat/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/alertify/alertify.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/alertify/alertify.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/error.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/google-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/summernote.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/dashboard/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/fontawesome-webfont862f.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/include/dbConnection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/include/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/include/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/alertify/alertify-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/alertify/alertify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/bootstrap-slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/bsvalidator/bootstrapValidator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/calendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/calendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/custom-components.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/custom-datatables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/custom-forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/custom-index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/custom-tables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/combine-chart-compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/combine-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/donut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/realtime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/rectangular-pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/scatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/stacked-area.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/stacked-horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/stacked-vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/custom/vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/jquery.flot.orderBar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/jquery.flot.pie.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/jquery.flot.resize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/jquery.flot.stack.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/flot/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/google-grid/classie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/google-grid/gridGallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/google-grid/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/google-grid/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/google-grid/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/jquery-ui-v1.10.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/jquery.datatables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/jquery.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/jvectormap/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/jvectormap/jquery-jvectormap-usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/maps/custom-maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/maps/maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/scrollup/jquery.scrollUp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/summernote/summernote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/logout/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/payments/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/photographercurrent/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/photographeroff/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/photographeron/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/photos/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/profile/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/checkmessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/saveuserchat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax/selectuserchat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cancel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors/color-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ionicons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/retina.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/skeleton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/freeh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/animation-home-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/anime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/blog-tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/charming.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-blog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-home-8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-post.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom-project8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/header-anime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/isotope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.chaffle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.simple-text-rotator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/letters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/masonry.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owlCarousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/retina.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/royal_preloader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scrollMonitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scrollReveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scrolltoid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tipper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vivus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myphotos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/success.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+              <folding>
+                <marker date="1500392504000" expanded="true" signature="368:449" ph="SELECT * FRO... admin" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4575">
+              <caret line="183" column="42" lean-forward="true" selection-start-line="183" selection-start-column="42" selection-end-line="183" selection-end-column="42" />
+              <folding>
+                <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+                <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+                <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+                <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+                <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="398" />
+    <option name="y" value="31" />
+    <option name="width" value="1309" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="photoshare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoshare" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="photoshare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoshare" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="photoshare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoshare" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="include" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Azure (Microsoft)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f13ed27-4f45-4a4c-91bf-a140e5694238" name="Default" comment="" />
+      <created>1501030822380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501030822380</updated>
+      <workItem from="1501030823605" duration="105000" />
+      <workItem from="1501060619096" duration="1230000" />
+      <workItem from="1501062850253" duration="22000" />
+      <workItem from="1501062926048" duration="495000" />
+      <workItem from="1501064462916" duration="965000" />
+      <workItem from="1501101827879" duration="436000" />
+      <workItem from="1501102465277" duration="2118000" />
+      <workItem from="1501106562202" duration="92000" />
+      <workItem from="1501106681108" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6072000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500890806000" expanded="true" signature="5137:5202" ph="SELECT `phot... photographer" />
+            <marker date="1500890806000" expanded="true" signature="5474:5540" ph="SELECT `phot... photographer" />
+            <marker date="1500890806000" expanded="true" signature="5790:5821" ph="SELECT `phot... photos" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/xpertmon_photoshare (1).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/dbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500392504000" expanded="true" signature="368:449" ph="SELECT * FRO... admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/dbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9325">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cancel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/dbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myphotos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500890806000" expanded="true" signature="5137:5202" ph="SELECT `phot... photographer" />
+            <marker date="1500890806000" expanded="true" signature="5474:5540" ph="SELECT `phot... photographer" />
+            <marker date="1500890806000" expanded="true" signature="5790:5821" ph="SELECT `phot... photos" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include/xpertmon_photoshare (1).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <marker date="1500392504000" expanded="true" signature="368:449" ph="SELECT * FRO... admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4575">
+          <caret line="183" column="42" lean-forward="true" selection-start-line="183" selection-start-column="42" selection-end-line="183" selection-end-column="42" />
+          <folding>
+            <marker date="1500747412000" expanded="true" signature="3708:3846" ph="SELECT * FRO... photographer" />
+            <marker date="1500747412000" expanded="true" signature="4351:4443" ph="SELECT `chat... chat" />
+            <marker date="1500747412000" expanded="true" signature="5332:5455" ph="SELECT `phot... photographer" />
+            <marker date="1500747412000" expanded="true" signature="5990:6103" ph="SELECT `firs... photographer" />
+            <marker date="1500747412000" expanded="true" signature="8412:8495" ph="SELECT * FRO... photographer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
